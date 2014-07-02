@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  isTimed: false
+  count: 1
+  restTime: 1
+
+two:
+  name: MyString
+  isTimed: false
+  count: 1
+  restTime: 1
